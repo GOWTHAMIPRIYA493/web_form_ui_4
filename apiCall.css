@@ -1,0 +1,47 @@
+
+
+.landing-ui {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    margin-top: 3%;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.sub-txt {
+    color: #F26764;
+}
+
+.cont {
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.prop-title {
+    text-align: right;
+    padding-top: 5%;
+    padding-right: 3%;
+}
+
+.cont-row {
+    padding-top: 3%;
+}
+
+.btn {
+    margin-top: 2%;
+}
+
+.res-txt {
+    padding-top: 3%;
+    text-align: center;
+}
+
+.api-response {
+    padding-top: 3%;
+}
